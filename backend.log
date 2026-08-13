@@ -1,0 +1,54 @@
+Using launch settings from /Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/Properties/launchSettings.json...
+Building...
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Infrastructure/GaziantepFire.Infrastructure/GaziantepFire.Infrastructure.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q [/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj]
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj : warning NU1903: Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Infrastructure/GaziantepFire.Persistence/GaziantepFire.Persistence.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q [/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj]
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj : warning NU1903: Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Infrastructure/GaziantepFire.Infrastructure/GaziantepFire.Infrastructure.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+/Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Infrastructure/GaziantepFire.Persistence/GaziantepFire.Persistence.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+info: GaziantepFire.Infrastructure.Services.KmlImportService[0]
+      [KmlImport] Parsed 9 districts from /Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/wwwroot/data/districts.kml
+info: GaziantepFire.Infrastructure.Services.KmlImportService[0]
+      [KmlImport] Parsed 786 neighborhoods from /Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/wwwroot/data/neighborhoods.kml
+info: GaziantepFire.Infrastructure.Services.KmlImportService[0]
+      [KmlImport] Parsed 13 fire stations from /Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI/wwwroot/data/stations.kml
+info: Microsoft.EntityFrameworkCore.Update[30100]
+      Saved 9 entities to in-memory store.
+info: Microsoft.EntityFrameworkCore.Update[30100]
+      Saved 786 entities to in-memory store.
+info: GaziantepFire.Infrastructure.BackgroundServices.DailyIncidentSyncHostedService[0]
+      [DailySyncService] Background service started. Will sync at 02:00 every day.
+info: GaziantepFire.Infrastructure.BackgroundServices.DailyIncidentSyncHostedService[0]
+      [DailySyncService] Next sync scheduled at 2026-08-12 02:00 (in 14.4 hours)
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5076
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/melikekorkmaz/gemini/antigravity/scratch/GaziantepFire/Presentation/GaziantepFire.WebAPI
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0
+[DEBUG] Database fire records matched query: 0

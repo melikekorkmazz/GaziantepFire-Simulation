@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/GaziantepFire.Application/GaziantepFire.Application.csproj" />
+    <Project Path="Core/GaziantepFire.Domain/GaziantepFire.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/GaziantepFire.Infrastructure/GaziantepFire.Infrastructure.csproj" />
+    <Project Path="Infrastructure/GaziantepFire.Persistence/GaziantepFire.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/GaziantepFire.WebAPI/GaziantepFire.WebAPI.csproj" />
+  </Folder>
+</Solution>

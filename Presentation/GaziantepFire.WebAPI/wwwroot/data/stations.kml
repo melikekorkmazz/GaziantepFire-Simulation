@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>İtfaiye İstasyonları</name>
+	<gx:CascadingStyle kml:id="__managed_style_0E860574E8299BAAA9CC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16BAE69568299BAAA9CA">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_098CA108E7299BAAA9CA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16BAE69568299BAAA9CA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0E860574E8299BAAA9CC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08872AEAC7299BAAA9C3">
+		<name>Karataş İstasyonu</name>
+		<LookAt>
+			<longitude>37.34051443019316</longitude>
+			<latitude>37.01542747840707</latitude>
+			<altitude>947.7139380171571</altitude>
+			<heading>358.6626901800072</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>474.5425266805978</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.34032251805342,37.0150455425221,949.7586910649031</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EBB360293299BABB000">
+		<name>Cumhuriyet İstasyonu</name>
+		<LookAt>
+			<longitude>37.35687924564957</longitude>
+			<latitude>37.05395746366619</latitude>
+			<altitude>887.7718536836763</altitude>
+			<heading>358.6626892596103</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>361.670260044848</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.35755623917845,37.05393053517621,885.293688246576</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0120B3BB7C299BAC4F17">
+		<name>İtfaiye Daire Başkanlığı - Merkez İstasyon</name>
+		<LookAt>
+			<longitude>37.39600964237383</longitude>
+			<latitude>37.058786394191</latitude>
+			<altitude>827.3896355898084</altitude>
+			<heading>358.6626879377368</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>441.2364091110067</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.39570548134456,37.05874850376421,829.140292767098</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0934EC61CA299BAD080D">
+		<name>Karşıyaka İstasyonu</name>
+		<LookAt>
+			<longitude>37.36437715040738</longitude>
+			<latitude>37.08761184226977</latitude>
+			<altitude>874.1287570679648</altitude>
+			<heading>358.6626872104662</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>349.2396963114152</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.3638746239593,37.08754616663577,874.4809470124181</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AFAE4A730299BADB87F">
+		<name>Küsget İstasyonu</name>
+		<LookAt>
+			<longitude>37.42598962935356</longitude>
+			<latitude>37.08215549243339</latitude>
+			<altitude>819.105579830098</altitude>
+			<heading>358.6626861013295</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>214.9593009614183</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.42558145121909,37.08216614165468,819.9355186143843</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B3A6845D299BAED541">
+		<name>Körkün İstasyonu</name>
+		<LookAt>
+			<longitude>37.4419610093499</longitude>
+			<latitude>36.96679598813966</latitude>
+			<altitude>752.3082290215506</altitude>
+			<heading>358.6626845339063</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>239.1428081334016</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.44216705135818,36.96687356819827,752.3438836848904</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BAB421A9D299BAFC60B">
+		<name>Oğuzeli İstasyonu</name>
+		<LookAt>
+			<longitude>37.5054606638841</longitude>
+			<latitude>36.9716875580858</latitude>
+			<altitude>689.0569794243764</altitude>
+			<heading>358.6626839609638</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>281.0258427012741</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.50566170846061,36.97161147357567,689.6424657216359</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096AFA2B32299BB0BDA0">
+		<name>Nizip İstasyonu</name>
+		<LookAt>
+			<longitude>37.79687282071647</longitude>
+			<latitude>37.0142797460687</latitude>
+			<altitude>526.2377311207556</altitude>
+			<heading>358.6626831134764</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>134.9385232838177</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.79682654185918,37.01432426872425,526.9239857484721</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D144C1128299BB191C0">
+		<name>Karkamış İstasyonu</name>
+		<LookAt>
+			<longitude>38.00065144426108</longitude>
+			<latitude>36.83190759650643</latitude>
+			<altitude>347.2425712320136</altitude>
+			<heading>358.662682102905</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>213.5140153981411</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>38.00064504906365,36.83172814272476,349.1359096706527</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B58FBDF41299BB291D1">
+		<name>Yavuzeli İstasyonu</name>
+		<LookAt>
+			<longitude>37.56125688387344</longitude>
+			<latitude>37.31741533921097</latitude>
+			<altitude>575.2315759012805</altitude>
+			<heading>358.6626801277984</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>231.4595034784361</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.56078006887116,37.31736662735195,576.5144177445802</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E361477E8299BB3490D">
+		<name>Araban İstasyonu</name>
+		<LookAt>
+			<longitude>37.68775686582407</longitude>
+			<latitude>37.4205738358602</latitude>
+			<altitude>530.1496458356679</altitude>
+			<heading>358.6626789766453</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>155.7722531419313</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>37.68774993705123,37.4206335223306,530.5080756568253</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05992A491A299BB420BF">
+		<name>İslahiye İstasyonu</name>
+		<LookAt>
+			<longitude>36.6233172444914</longitude>
+			<latitude>36.992782853808</latitude>
+			<altitude>522.6648607412534</altitude>
+			<heading>-0.7301513607581411</heading>
+			<tilt>0.2537328796974262</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>261.0806608810162</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>36.62265467256401,36.99267940371968,524.1728475959789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001916D92A299BB4BCDF">
+		<name>Nurdağı İstasyonu</name>
+		<LookAt>
+			<longitude>36.76168643335658</longitude>
+			<latitude>37.19033355918503</latitude>
+			<altitude>510.0404229969988</altitude>
+			<heading>-0.7301513668847464</heading>
+			<tilt>0.2537329281879452</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>262.4025257277026</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_098CA108E7299BAAA9CA</styleUrl>
+		<Point>
+			<coordinates>36.76156595454291,37.19033616948308,510.7178771225989</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

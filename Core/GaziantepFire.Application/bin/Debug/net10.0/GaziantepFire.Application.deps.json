@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GaziantepFire.Application/1.0.0": {
+        "dependencies": {
+          "GaziantepFire.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GaziantepFire.Application.dll": {}
+        }
+      },
+      "GaziantepFire.Domain/1.0.0": {
+        "runtime": {
+          "GaziantepFire.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GaziantepFire.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GaziantepFire.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
